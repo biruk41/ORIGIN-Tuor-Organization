@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(130, 127, 127);
+     
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     
+}
+marquee{
+    background-color: rgb(105, 165, 0);
+}
+.tit-1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:solid;
+    border-radius: 38px;
+    margin:auto;
+    padding: 33px;
+  
+}
+.button-1{
+    background-color: rgb(124, 157, 228);
+    margin: 19px;
+    font-size: 20px;
+    border-radius: 17px;
+}
+.button-1:hover {
+    box-shadow: 2px 2px 5px rgb(245, 234, 234);
+    color: green;
+    background-color: rgb(197, 197, 21);
+}
+
+.p-1 {
+    border-top: solid 9px green;
+    border-right: solid 9px yellow;
+    border-bottom: groove 7px rgb(183, 68, 68);
+    border-radius: 19px;
+    font-size:20px;
+    color: rgb(255, 255, 255);  
+    margin: 22px;
+    padding: 22px;
+}
+.oto-1{
+    background-color: ;
+}
+
+#img-1 {
+    .circular-image img {
+        width: 10%;
+        height: 10%;
+        object-fit: cover;
+}
+
+
